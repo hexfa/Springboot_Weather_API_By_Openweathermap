@@ -18,7 +18,8 @@ This is a weather advanced API services through the Openweathermap site API.
 <br>
 Guide: Once you sign up using your email, the API key (APPID) will be sent to you in a confirmation email. Your API keys can always be found on your account page, where you can also generate additional API keys if needed.
 <br>
-  
+ <h2></h2>
+  <h2></h2>
 <h4>2-Please set your MySql details(Address with port, username, password) and also change API password 111 to make it stronger and use it for "src\main\resources\application.properties" file.<h4>
 <br>
 <img src="https://hexfa.com/my-git-doc/weather/git-files/spring-config.jpg" width="700" height="300" />
@@ -27,9 +28,9 @@ Guide: If you want to change the database name from spring to another, you shoul
 
 <br>
 <br>
-<h2> Document of API:</h3>
+<h2> Document of API:</h2>
 <a href="https://hexfa.com/my-git-doc/weather">Visit Postman Document</a>
 
-<h2> API Testing:</h3>
+<h2> API Testing:</h2>
 <a href="https://hexfa.com/my-git-doc/weather/git-files/WeatherForecast.postman_collection.json">Download Postman Collection</a>
 
