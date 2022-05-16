@@ -4,6 +4,11 @@ Java Springboot Weather API By Openweathermap.com service
 <h3>Detail</h3>
 This is a weather advanced API services through the Openweathermap site API.
 <br>
+<h2></h2>
+<h2>
+ Important: This service is currently available and usable online. You can test the API without compiling. Just use https://demo.hexfa.com instead of http://localhost:8080 and then <a href="#-api-testing">test the API</a>.
+ </h2>
+ <br>
 <h3> Database of API:</h3>
 <a href="https://hexfa.com/my-git-doc/weather/git-files/spring.sql">Download MySql Database</a>
 <br>
